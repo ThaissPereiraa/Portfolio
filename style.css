@@ -151,7 +151,7 @@ section.especialidades{
 
 
 .especialidades .especialidades-box{
-    color: #fff;
+    color: #000;
     padding: 40px;
     margin-top: 45px;
     border-radius: 20px;
@@ -185,7 +185,7 @@ section.sobre .flex{
 }
 
 .sobre .txt-sobre{
-    color: #fff;
+    color: #000;
 }
 
 .sobre .txt-sobre h2{
@@ -265,7 +265,7 @@ section.portfolio .flex{
     font-weight: 600;
     align-items: center;
     justify-content: center;
-    color: #fff;
+    color: #ffffff;
     opacity: 0;
 }
 
